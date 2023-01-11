@@ -1,4 +1,4 @@
 package dao;
 
-public class StudentDao {
+public class  StudentDao {
 }
